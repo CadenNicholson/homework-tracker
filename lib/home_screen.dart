@@ -19,7 +19,7 @@ class HomeScreen extends StatelessWidget{
         "Get Started!",
         style: TextStyle(
             color: Colors.green,
-            fontSize: 20,
+            fontSize: 20, 
             fontWeight: FontWeight.bold
         ),
     ),
@@ -51,7 +51,4 @@ class HomeScreen extends StatelessWidget{
     );
 
   }
-
-
-
 }
